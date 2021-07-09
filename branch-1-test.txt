@@ -1,1 +1,1 @@
-Tekst na nowym branchu z confliktem.
+Tekst na nowym branchu z confliktem i konfliktem 2.
